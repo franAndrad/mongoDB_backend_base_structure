@@ -8,7 +8,7 @@
 Para poder iniciar con un proyecto primero debemos instalar:
 
 1. [mongoDB](https://www.mongodb.com/)
-2. [studio3T](https://studio3t.com/), 
+2. [studio3T](https://studio3t.com/)
 
 Con el ultimo mencionado debemos crear una cioneccion, si nos pide una URL al crearla no colocamos nada solo damos en continuar y le ponemos un nombre a la conexion.
 
@@ -215,8 +215,12 @@ import express from "express";
 
 ## 🪦 Fin
 
+<<<<<<< HEAD
 Con esto tendria una estructura base para empezar con un proyecto de API en mongoDB, este documento tiene la explicacion de como se fue creando. La estructura esta en los archivos cargados en el git para poder descargarlo usamos el comando ´git clone https://github.com/franAndrad/mongoDB_backend_base_structure.git ´
 
 ## 📖 Ejemplo
 
  - [proyecto Burger House](https://github.com/franAndrad/Proyecto-final-BackEnd)
+=======
+Con esto tendria una estructura base para empezar con un proyecto de API en mongoDB, este documento tiene la explicacion de como se fue creando. La estructura esta en los archivos cargados en el git para poder descargarlo usamos el comando `git clone https://github.com/franAndrad/mongoDB_backend_base_structure.git`
+>>>>>>> c4b3312cc021dbf0e934f5e91f54b2dc8b01de13
