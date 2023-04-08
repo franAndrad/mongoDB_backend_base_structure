@@ -8,7 +8,7 @@
 Para poder iniciar con un proyecto primero debemos instalar:
 
 1. [mongoDB](https://www.mongodb.com/)
-2. [studio3T](https://studio3t.com/), 
+2. [studio3T](https://studio3t.com/)
 
 Con el ultimo mencionado debemos crear una cioneccion, si nos pide una URL al crearla no colocamos nada solo damos en continuar y le ponemos un nombre a la conexion.
 
