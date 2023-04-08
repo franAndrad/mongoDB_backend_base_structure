@@ -1,0 +1,3 @@
+{
+   "presets": ["env"] //Esto nos indica el tipo de traduccion (javascript de ultia generacion)
+}
