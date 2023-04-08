@@ -215,12 +215,8 @@ import express from "express";
 
 ## 🪦 Fin
 
-<<<<<<< HEAD
 Con esto tendria una estructura base para empezar con un proyecto de API en mongoDB, este documento tiene la explicacion de como se fue creando. La estructura esta en los archivos cargados en el git para poder descargarlo usamos el comando ´git clone https://github.com/franAndrad/mongoDB_backend_base_structure.git ´
 
 ## 📖 Ejemplo
 
  - [proyecto Burger House](https://github.com/franAndrad/Proyecto-final-BackEnd)
-=======
-Con esto tendria una estructura base para empezar con un proyecto de API en mongoDB, este documento tiene la explicacion de como se fue creando. La estructura esta en los archivos cargados en el git para poder descargarlo usamos el comando `git clone https://github.com/franAndrad/mongoDB_backend_base_structure.git`
->>>>>>> c4b3312cc021dbf0e934f5e91f54b2dc8b01de13
